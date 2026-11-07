@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Crime Hotspot Finder Using DBSCAN
 
 
@@ -145,4 +146,3 @@ Data preprocessing, exploratory data analysis, DBSCAN clustering, evaluation, ma
 \## Disclaimer
 
 This project is for academic and educational purposes. Results are based on synthetic data and do not represent verified crime statistics or actual public safety conditions in Karachi.
-
