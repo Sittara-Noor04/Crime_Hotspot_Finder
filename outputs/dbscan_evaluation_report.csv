@@ -1,0 +1,10 @@
+Metric,Value
+Total Records,100000
+Total Clusters,9
+Noise Records,6659
+Noise Percentage,6.66
+EPS (KM),2.0
+MIN SAMPLES,1000
+Silhouette Score,0.0238
+ROC AUC (2020-23 vs 2024-25),0.855
+Data Type,Synthetic
